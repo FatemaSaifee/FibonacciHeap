@@ -90,16 +90,14 @@ Return value | true if successful
 ### Node rightMostSibling()
 Abstract | Value
 | ---- | ----|
-Description | Traverse the heap to get the rightmost node 
-This is also done in time O(n).
+Description | Traverse the heap to get the rightmost node. This is also done in time O(n).
 Parameters | nil
 Return value | The node which is the rightmost sibling of the current node
 
 ### Node leftMostSibling()
 Abstract | Value
 | ---- | ----|
-Description
-Traverse the heap to get the leftmost node. This is also done in time O(n).
+Description | Traverse the heap to get the leftmost node. This is also done in time O(n).
 Parameters | nil
 Return value | The node which is the leftmost sibling of the current node
 
